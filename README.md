@@ -1,6 +1,6 @@
 # Whoami
 
-Bienvenue sur ma page GitHub ! Je suis 4nh4ck1n3, et je suis passionn par la sécurité offensive. 
+Bienvenue sur ma page GitHub ! Je suis 4nh4ck1n3, et je suis passionné par la sécurité offensive. 
 
 ## À propos de moi
 
