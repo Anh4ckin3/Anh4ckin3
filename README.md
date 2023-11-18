@@ -18,3 +18,6 @@ Je suis étudiant en BTS SIO SISR, et je me forme a la sécurité offensive.
 [Tryhackme](https://tryhackme.com/p/leandreonizuka84) 
 
 [H4ckthebox](https://app.hackthebox.com/users/1328334)
+
+## Team Blog 
+👩‍💻 https://thef0rceawak5ns.github.io/
