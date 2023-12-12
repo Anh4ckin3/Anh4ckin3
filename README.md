@@ -17,5 +17,5 @@ I study BTS SIO SISR, and I am passionate about offensive cybersecurity =)
 
 [H4ckthebox](https://app.hackthebox.com/users/1328334)
 
-## Team Blog 
+## Blog avec les copains 
 👩‍💻 https://thef0rceawak5ns.github.io/
