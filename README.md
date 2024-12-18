@@ -1,7 +1,7 @@
 
 # Whoami🥷
 
-Hi welcome on my GitHub ! I'am 4nh4ck1n3, french IT studen, infosec lover, BIG STAR WARS FAN and Seinen enjoyer
+Hi ! I'am 4nh4ck1n3, french IT studen and BIG STAR WARS FAN 
 
 
 ## 🚀 About Me
