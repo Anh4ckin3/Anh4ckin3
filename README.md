@@ -1,7 +1,7 @@
 
 # Whoami🥷
 
-Hi ! I'am 4nh4ck1n3, french IT studen and BIG STAR WARS FAN 
+Hi ! I'am 4nh4ck1n3, french IT student and BIG STAR WARS FAN 
 
 
 ## 🚀 About Me
