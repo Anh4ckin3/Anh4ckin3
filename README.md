@@ -12,9 +12,4 @@ I really like anything that has to do with offensive security related to Active 
 
 [Rootme](https://www.root-me.org/4nh4ck1n3)
 
-[Tryhackme](https://tryhackme.com/p/leandreonizuka84) 
-
 [H4ckthebox](https://app.hackthebox.com/users/1328334)
-
-## Blog avec les copains 
-👩‍💻 https://thef0rceawak5ns.github.io/
