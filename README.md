@@ -1,4 +1,3 @@
-
 # Whoami🥷
 
 Hi ! I'am 4nh4ck1n3, french IT student and BIG STAR WARS FAN 
@@ -13,3 +12,5 @@ I really like anything that has to do with offensive security related to Active 
 [💀Rootme](https://www.root-me.org/4nh4ck1n3)
 
 [🟩Hackthebox](https://app.hackthebox.com/users/1328334)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anh4ckin3&show_icons=true&theme=radical)
